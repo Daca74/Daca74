@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daca74
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning developpement on react 
+- 👋 Hi, I’m @Daca74 alias Carla DACH 
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning developpement on React 
 - 📫 You can reach me on Instagram : Carla_dh5
